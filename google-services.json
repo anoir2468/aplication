@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "876491921480",
+    "project_id": "aplication-yed-b-yed-ed6b5",
+    "storage_bucket": "aplication-yed-b-yed-ed6b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876491921480:android:4387fbb822064de252a07d",
+        "android_client_info": {
+          "package_name": "com.example.yad_byad_finaly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXVp3t6Gehh2oPo0BZutU3e8-IHa0qbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876491921480:android:4bce00d1646c09c552a07d",
+        "android_client_info": {
+          "package_name": "com.example.yad_byed_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXVp3t6Gehh2oPo0BZutU3e8-IHa0qbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876491921480:android:e450ebcce0fc61df52a07d",
+        "android_client_info": {
+          "package_name": "com.example.yed_byed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXVp3t6Gehh2oPo0BZutU3e8-IHa0qbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

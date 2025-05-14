@@ -1,0 +1,4913 @@
+[
+  {
+    "wilaya_code": 1,
+    "wilaya_name": "أدرار",
+    "communes": [
+      {
+        "commune_name": "Adrar"
+      },
+      {
+        "commune_name": "Tamest"
+      },
+      {
+        "commune_name": "Charouine"
+      },
+      {
+        "commune_name": "Reggane"
+      },
+      {
+        "commune_name": "In Zghmir"
+      },
+      {
+        "commune_name": "Tit"
+      },
+      {
+        "commune_name": "Ksar Kaddour"
+      },
+      {
+        "commune_name": "Tsabit"
+      },
+      {
+        "commune_name": "Timimoun"
+      },
+      {
+        "commune_name": "Ouled Said"
+      },
+      {
+        "commune_name": "Zaouiet Kounta"
+      },
+      {
+        "commune_name": "Aoulef"
+      },
+      {
+        "commune_name": "Timokten"
+      },
+      {
+        "commune_name": "Tamentit"
+      },
+      {
+        "commune_name": "Fenoughil"
+      },
+      {
+        "commune_name": "Tinerkouk"
+      },
+      {
+        "commune_name": "Deldoul"
+      },
+      {
+        "commune_name": "Sali"
+      },
+      {
+        "commune_name": "Akabli"
+      },
+      {
+        "commune_name": "Metarfa"
+      },
+      {
+        "commune_name": "Ouled Ahmed Tammi"
+      },
+      {
+        "commune_name": "Bouda"
+      },
+      {
+        "commune_name": "Aougrout"
+      },
+      {
+        "commune_name": "Talmine"
+      },
+      {
+        "commune_name": "Bordj Badji Mokhtar"
+      },
+      {
+        "commune_name": "Sbaa"
+      },
+      {
+        "commune_name": "Ouled Aissa"
+      },
+      {
+        "commune_name": "Timiaouine"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 2,
+    "wilaya_name": "الشلف",
+    "communes": [
+      {
+        "commune_name": "Chlef"
+      },
+      {
+        "commune_name": "Tenes"
+      },
+      {
+        "commune_name": "Benairia"
+      },
+      {
+        "commune_name": "El Karimia"
+      },
+      {
+        "commune_name": "Tadjna"
+      },
+      {
+        "commune_name": "Taougrite"
+      },
+      {
+        "commune_name": "Beni Haoua"
+      },
+      {
+        "commune_name": "Sobha"
+      },
+      {
+        "commune_name": "Harchoun"
+      },
+      {
+        "commune_name": "Ouled Fares"
+      },
+      {
+        "commune_name": "Sidi Akacha"
+      },
+      {
+        "commune_name": "Boukadir"
+      },
+      {
+        "commune_name": "Beni Rached"
+      },
+      {
+        "commune_name": "Talassa"
+      },
+      {
+        "commune_name": "Herenfa"
+      },
+      {
+        "commune_name": "Oued Goussine"
+      },
+      {
+        "commune_name": "Dahra"
+      },
+      {
+        "commune_name": "Ouled Abbes"
+      },
+      {
+        "commune_name": "Sendjas"
+      },
+      {
+        "commune_name": "Zeboudja"
+      },
+      {
+        "commune_name": "Oued Sly"
+      },
+      {
+        "commune_name": "Abou El Hassen"
+      },
+      {
+        "commune_name": "El Marsa"
+      },
+      {
+        "commune_name": "Chettia"
+      },
+      {
+        "commune_name": "Sidi Abderrahmane"
+      },
+      {
+        "commune_name": "Moussadek"
+      },
+      {
+        "commune_name": "El Hadjadj"
+      },
+      {
+        "commune_name": "Labiod Medjadja"
+      },
+      {
+        "commune_name": "Oued Fodda"
+      },
+      {
+        "commune_name": "Ouled Ben Abdelkader"
+      },
+      {
+        "commune_name": "Bouzghaia"
+      },
+      {
+        "commune_name": "Ain Merane"
+      },
+      {
+        "commune_name": "Oum Drou"
+      },
+      {
+        "commune_name": "Breira"
+      },
+      {
+        "commune_name": "Beni Bouateb"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 3,
+    "wilaya_name": "الأغواط",
+    "communes": [
+      {
+        "commune_name": "Laghouat"
+      },
+      {
+        "commune_name": "Ksar El Hirane"
+      },
+      {
+        "commune_name": "Benacer Ben Chohra"
+      },
+      {
+        "commune_name": "Sidi Makhlouf"
+      },
+      {
+        "commune_name": "Hassi Delaa"
+      },
+      {
+        "commune_name": "Hassi R'Mel"
+      },
+      {
+        "commune_name": "Ain Mahdi"
+      },
+      {
+        "commune_name": "Tadjmout"
+      },
+      {
+        "commune_name": "El Kheneg"
+      },
+      {
+        "commune_name": "Gueltat Sidi Saad"
+      },
+      {
+        "commune_name": "Ain Sidi Ali"
+      },
+      {
+        "commune_name": "Beidha"
+      },
+      {
+        "commune_name": "Brida"
+      },
+      {
+        "commune_name": "El Ghicha"
+      },
+      {
+        "commune_name": "Hadj Mechri"
+      },
+      {
+        "commune_name": "Sebgag"
+      },
+      {
+        "commune_name": "Taouiala"
+      },
+      {
+        "commune_name": "Tadjrouna"
+      },
+      {
+        "commune_name": "Aflou"
+      },
+      {
+        "commune_name": "El Assafia"
+      },
+      {
+        "commune_name": "Oued Morra"
+      },
+      {
+        "commune_name": "Oued M'Zi"
+      },
+      {
+        "commune_name": "El Haouaita"
+      },
+      {
+        "commune_name": "Sidi Bouzid"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 4,
+    "wilaya_name": "أم البواقي",
+    "communes": [
+      {
+        "commune_name": "Oum El Bouaghi"
+      },
+      {
+        "commune_name": "Ain Beida"
+      },
+      {
+        "commune_name": "Ain M'lila"
+      },
+      {
+        "commune_name": "Behir Chergui"
+      },
+      {
+        "commune_name": "El Amiria"
+      },
+      {
+        "commune_name": "Sigus"
+      },
+      {
+        "commune_name": "El Belala"
+      },
+      {
+        "commune_name": "Ain Babouche"
+      },
+      {
+        "commune_name": "Berriche"
+      },
+      {
+        "commune_name": "Ouled Hamla"
+      },
+      {
+        "commune_name": "Dhala"
+      },
+      {
+        "commune_name": "Ain Kercha"
+      },
+      {
+        "commune_name": "Hanchir Toumghani"
+      },
+      {
+        "commune_name": "El Djazia"
+      },
+      {
+        "commune_name": "Ain Diss"
+      },
+      {
+        "commune_name": "Fkirina"
+      },
+      {
+        "commune_name": "Souk Naamane"
+      },
+      {
+        "commune_name": "Zorg"
+      },
+      {
+        "commune_name": "El Fedjoudj Boughrara Saoudi"
+      },
+      {
+        "commune_name": "Ouled Zouai"
+      },
+      {
+        "commune_name": "Bir Chouhada"
+      },
+      {
+        "commune_name": "Ksar Sbahi"
+      },
+      {
+        "commune_name": "Oued Nini"
+      },
+      {
+        "commune_name": "Meskiana"
+      },
+      {
+        "commune_name": "Ain Fekroune"
+      },
+      {
+        "commune_name": "Rahia"
+      },
+      {
+        "commune_name": "Ain Zitoun"
+      },
+      {
+        "commune_name": "Ouled Gacem"
+      },
+      {
+        "commune_name": "El Harmilia"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 5,
+    "wilaya_name": "باتنة",
+    "communes": [
+      {
+        "commune_name": "Batna"
+      },
+      {
+        "commune_name": "Ghassira"
+      },
+      {
+        "commune_name": "Maafa"
+      },
+      {
+        "commune_name": "Merouana"
+      },
+      {
+        "commune_name": "Seriana"
+      },
+      {
+        "commune_name": "Menaa"
+      },
+      {
+        "commune_name": "El Madher"
+      },
+      {
+        "commune_name": "Tazoult"
+      },
+      {
+        "commune_name": "Ngaous"
+      },
+      {
+        "commune_name": "Guigba"
+      },
+      {
+        "commune_name": "Inoughissen"
+      },
+      {
+        "commune_name": "Ouyoun El Assafir"
+      },
+      {
+        "commune_name": "Djerma"
+      },
+      {
+        "commune_name": "Bitam"
+      },
+      {
+        "commune_name": "Metkaouak"
+      },
+      {
+        "commune_name": "Arris"
+      },
+      {
+        "commune_name": "Kimmel"
+      },
+      {
+        "commune_name": "Tilatou"
+      },
+      {
+        "commune_name": "Ain Djasser"
+      },
+      {
+        "commune_name": "Ouled Selam"
+      },
+      {
+        "commune_name": "Tigherghar"
+      },
+      {
+        "commune_name": "Ain Yagout"
+      },
+      {
+        "commune_name": "Fesdis"
+      },
+      {
+        "commune_name": "Sefiane"
+      },
+      {
+        "commune_name": "Rahbat"
+      },
+      {
+        "commune_name": "Tighanimine"
+      },
+      {
+        "commune_name": "Lemsane"
+      },
+      {
+        "commune_name": "Ksar Belezma"
+      },
+      {
+        "commune_name": "Seggana"
+      },
+      {
+        "commune_name": "Ichmoul"
+      },
+      {
+        "commune_name": "Foum Toub"
+      },
+      {
+        "commune_name": "Beni Foudhala El Hakania"
+      },
+      {
+        "commune_name": "Oued El Ma"
+      },
+      {
+        "commune_name": "Talkhamt"
+      },
+      {
+        "commune_name": "Bouzina"
+      },
+      {
+        "commune_name": "Chemora"
+      },
+      {
+        "commune_name": "Oued Chaaba"
+      },
+      {
+        "commune_name": "Taxlent"
+      },
+      {
+        "commune_name": "Gosbat"
+      },
+      {
+        "commune_name": "Ouled Aouf"
+      },
+      {
+        "commune_name": "Boumagueur"
+      },
+      {
+        "commune_name": "Barika"
+      },
+      {
+        "commune_name": "Djezzar"
+      },
+      {
+        "commune_name": "Tkout"
+      },
+      {
+        "commune_name": "Ain Touta"
+      },
+      {
+        "commune_name": "Hidoussa"
+      },
+      {
+        "commune_name": "Teniet El Abed"
+      },
+      {
+        "commune_name": "Oued Taga"
+      },
+      {
+        "commune_name": "Ouled Fadel"
+      },
+      {
+        "commune_name": "Timgad"
+      },
+      {
+        "commune_name": "Ras El Aioun"
+      },
+      {
+        "commune_name": "Chir"
+      },
+      {
+        "commune_name": "Ouled Si Slimane"
+      },
+      {
+        "commune_name": "Zanat El Beida"
+      },
+      {
+        "commune_name": "M'doukel"
+      },
+      {
+        "commune_name": "Ouled Ammar"
+      },
+      {
+        "commune_name": "El Hassi"
+      },
+      {
+        "commune_name": "Lazrou"
+      },
+      {
+        "commune_name": "Boumia"
+      },
+      {
+        "commune_name": "Boulhilat"
+      },
+      {
+        "commune_name": "Larbaa"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 6,
+    "wilaya_name": "بجاية",
+    "communes": [
+      {
+        "commune_name": "Bejaia"
+      },
+      {
+        "commune_name": "Amizour"
+      },
+      {
+        "commune_name": "Ferraoun"
+      },
+      {
+        "commune_name": "Taourirt Ighil"
+      },
+      {
+        "commune_name": "Chelata"
+      },
+      {
+        "commune_name": "Tamokra"
+      },
+      {
+        "commune_name": "Timzrit"
+      },
+      {
+        "commune_name": "Souk El Thenine"
+      },
+      {
+        "commune_name": "M'cisna"
+      },
+      {
+        "commune_name": "Thinabdher"
+      },
+      {
+        "commune_name": "Tichi"
+      },
+      {
+        "commune_name": "Semaoun"
+      },
+      {
+        "commune_name": "Kendira"
+      },
+      {
+        "commune_name": "Tifra"
+      },
+      {
+        "commune_name": "Ighram"
+      },
+      {
+        "commune_name": "Amalou"
+      },
+      {
+        "commune_name": "Ighil Ali"
+      },
+      {
+        "commune_name": "Ifelain Ilmathen"
+      },
+      {
+        "commune_name": "Toudja"
+      },
+      {
+        "commune_name": "Darguina"
+      },
+      {
+        "commune_name": "Sidi Ayad"
+      },
+      {
+        "commune_name": "Aokas"
+      },
+      {
+        "commune_name": "Ait Djellil"
+      },
+      {
+        "commune_name": "Adekar"
+      },
+      {
+        "commune_name": "Akbou"
+      },
+      {
+        "commune_name": "Seddouk"
+      },
+      {
+        "commune_name": "Tazmalt"
+      },
+      {
+        "commune_name": "Ait R'zine"
+      },
+      {
+        "commune_name": "Chemini"
+      },
+      {
+        "commune_name": "Souk Oufella"
+      },
+      {
+        "commune_name": "Taskriout"
+      },
+      {
+        "commune_name": "Tibane"
+      },
+      {
+        "commune_name": "Tala Hamza"
+      },
+      {
+        "commune_name": "Barbacha"
+      },
+      {
+        "commune_name": "Beni Ksila"
+      },
+      {
+        "commune_name": "Ouzallaguen"
+      },
+      {
+        "commune_name": "Bouhamza"
+      },
+      {
+        "commune_name": "Beni Melikeche"
+      },
+      {
+        "commune_name": "Sidi Aich"
+      },
+      {
+        "commune_name": "El Kseur"
+      },
+      {
+        "commune_name": "Melbou"
+      },
+      {
+        "commune_name": "Akfadou"
+      },
+      {
+        "commune_name": "Leflaye"
+      },
+      {
+        "commune_name": "Kherrata"
+      },
+      {
+        "commune_name": "Draa Kaid"
+      },
+      {
+        "commune_name": "Tamridjet"
+      },
+      {
+        "commune_name": "Ait Smail"
+      },
+      {
+        "commune_name": "Boukhelifa"
+      },
+      {
+        "commune_name": "Tizi N'berber"
+      },
+      {
+        "commune_name": "Beni Maouch"
+      },
+      {
+        "commune_name": "Oued Ghir"
+      },
+      {
+        "commune_name": "Boudjellil"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 7,
+    "wilaya_name": "بسكرة",
+    "communes": [
+      {
+        "commune_name": "Biskra"
+      },
+      {
+        "commune_name": "Oumache"
+      },
+      {
+        "commune_name": "Branis"
+      },
+      {
+        "commune_name": "Chetma"
+      },
+      {
+        "commune_name": "Ouled Djellal"
+      },
+      {
+        "commune_name": "Ras El Miaad"
+      },
+      {
+        "commune_name": "Besbes"
+      },
+      {
+        "commune_name": "Sidi Khaled"
+      },
+      {
+        "commune_name": "Doucen"
+      },
+      {
+        "commune_name": "Ech Chaiba"
+      },
+      {
+        "commune_name": "Sidi Okba"
+      },
+      {
+        "commune_name": "Mchouneche"
+      },
+      {
+        "commune_name": "El Haouch"
+      },
+      {
+        "commune_name": "Ain Naga"
+      },
+      {
+        "commune_name": "Zeribet El Oued"
+      },
+      {
+        "commune_name": "El Feidh"
+      },
+      {
+        "commune_name": "El Kantara"
+      },
+      {
+        "commune_name": "Ain Zaatout"
+      },
+      {
+        "commune_name": "El Outaya"
+      },
+      {
+        "commune_name": "Djemorah"
+      },
+      {
+        "commune_name": "Tolga"
+      },
+      {
+        "commune_name": "Lioua"
+      },
+      {
+        "commune_name": "Lichana"
+      },
+      {
+        "commune_name": "Ourlal"
+      },
+      {
+        "commune_name": "M'lili"
+      },
+      {
+        "commune_name": "Foughala"
+      },
+      {
+        "commune_name": "Bordj Ben Azzouz"
+      },
+      {
+        "commune_name": "M'ziraa"
+      },
+      {
+        "commune_name": "Bouchagroun"
+      },
+      {
+        "commune_name": "Mekhadma"
+      },
+      {
+        "commune_name": "El Ghrous"
+      },
+      {
+        "commune_name": "El Hadjab"
+      },
+      {
+        "commune_name": "Khanguet Sidinadji"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 8,
+    "wilaya_name": "بشار",
+    "communes": [
+      {
+        "commune_name": "Bechar"
+      },
+      {
+        "commune_name": "Erg Ferradj"
+      },
+      {
+        "commune_name": "Ouled Khoudir"
+      },
+      {
+        "commune_name": "Meridja"
+      },
+      {
+        "commune_name": "Timoudi"
+      },
+      {
+        "commune_name": "Lahmar"
+      },
+      {
+        "commune_name": "Beni Abbes"
+      },
+      {
+        "commune_name": "Beni Ikhlef"
+      },
+      {
+        "commune_name": "Mechraa Houari Boumedienne"
+      },
+      {
+        "commune_name": "Kenedsa"
+      },
+      {
+        "commune_name": "Igli"
+      },
+      {
+        "commune_name": "Tabalbala"
+      },
+      {
+        "commune_name": "Taghit"
+      },
+      {
+        "commune_name": "El Ouata"
+      },
+      {
+        "commune_name": "Boukais"
+      },
+      {
+        "commune_name": "Mogheul"
+      },
+      {
+        "commune_name": "Abadla"
+      },
+      {
+        "commune_name": "Kerzaz"
+      },
+      {
+        "commune_name": "Ksabi"
+      },
+      {
+        "commune_name": "Tamtert"
+      },
+      {
+        "commune_name": "Beni Ounif"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 9,
+    "wilaya_name": "البليدة‎",
+    "communes": [
+      {
+        "commune_name": "Blida"
+      },
+      {
+        "commune_name": "Chebli"
+      },
+      {
+        "commune_name": "Bouinan"
+      },
+      {
+        "commune_name": "Oued El Alleug"
+      },
+      {
+        "commune_name": "Ouled Yaich"
+      },
+      {
+        "commune_name": "Chrea"
+      },
+      {
+        "commune_name": "El Affroun"
+      },
+      {
+        "commune_name": "Chiffa"
+      },
+      {
+        "commune_name": "Hammam Melouane"
+      },
+      {
+        "commune_name": "Ben Khlil"
+      },
+      {
+        "commune_name": "Soumaa"
+      },
+      {
+        "commune_name": "Mouzaia"
+      },
+      {
+        "commune_name": "Souhane"
+      },
+      {
+        "commune_name": "Meftah"
+      },
+      {
+        "commune_name": "Ouled Selama"
+      },
+      {
+        "commune_name": "Boufarik"
+      },
+      {
+        "commune_name": "Larbaa"
+      },
+      {
+        "commune_name": "Oued Djer"
+      },
+      {
+        "commune_name": "Beni Tamou"
+      },
+      {
+        "commune_name": "Bouarfa"
+      },
+      {
+        "commune_name": "Beni Mered"
+      },
+      {
+        "commune_name": "Bougara"
+      },
+      {
+        "commune_name": "Guerrouaou"
+      },
+      {
+        "commune_name": "Ain Romana"
+      },
+      {
+        "commune_name": "Djebabra"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 10,
+    "wilaya_name": "البويرة",
+    "communes": [
+      {
+        "commune_name": "Bouira"
+      },
+      {
+        "commune_name": "El Asnam"
+      },
+      {
+        "commune_name": "Guerrouma"
+      },
+      {
+        "commune_name": "Souk El Khemis"
+      },
+      {
+        "commune_name": "Kadiria"
+      },
+      {
+        "commune_name": "Hanif"
+      },
+      {
+        "commune_name": "Dirah"
+      },
+      {
+        "commune_name": "Ait Laaziz"
+      },
+      {
+        "commune_name": "Taghzout"
+      },
+      {
+        "commune_name": "Raouraoua"
+      },
+      {
+        "commune_name": "Mezdour"
+      },
+      {
+        "commune_name": "Haizer"
+      },
+      {
+        "commune_name": "Lakhdaria"
+      },
+      {
+        "commune_name": "Maala"
+      },
+      {
+        "commune_name": "El Hachimia"
+      },
+      {
+        "commune_name": "Aomar"
+      },
+      {
+        "commune_name": "Chorfa"
+      },
+      {
+        "commune_name": "Bordj Oukhriss"
+      },
+      {
+        "commune_name": "El Adjiba"
+      },
+      {
+        "commune_name": "El Hakimia"
+      },
+      {
+        "commune_name": "El Khebouzia"
+      },
+      {
+        "commune_name": "Ahl El Ksar"
+      },
+      {
+        "commune_name": "Bouderbala"
+      },
+      {
+        "commune_name": "Zbarbar"
+      },
+      {
+        "commune_name": "Ain El Hadjar"
+      },
+      {
+        "commune_name": "Djebahia"
+      },
+      {
+        "commune_name": "Aghbalou"
+      },
+      {
+        "commune_name": "Taguedit"
+      },
+      {
+        "commune_name": "Ain Turk"
+      },
+      {
+        "commune_name": "Saharidj"
+      },
+      {
+        "commune_name": "Dechmia"
+      },
+      {
+        "commune_name": "Ridane"
+      },
+      {
+        "commune_name": "Bechloul"
+      },
+      {
+        "commune_name": "Boukram"
+      },
+      {
+        "commune_name": "Ain Bessam"
+      },
+      {
+        "commune_name": "Bir Ghbalou"
+      },
+      {
+        "commune_name": "Mchedallah"
+      },
+      {
+        "commune_name": "Sour El Ghozlane"
+      },
+      {
+        "commune_name": "Maamora"
+      },
+      {
+        "commune_name": "Ouled Rached"
+      },
+      {
+        "commune_name": "Ain Laloui"
+      },
+      {
+        "commune_name": "Hadjera Zerga"
+      },
+      {
+        "commune_name": "Ath Mansour"
+      },
+      {
+        "commune_name": "El Mokrani"
+      },
+      {
+        "commune_name": "Oued El Berdi"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 11,
+    "wilaya_name": "تمنراست",
+    "communes": [
+      {
+        "commune_name": "Tamanghasset"
+      },
+      {
+        "commune_name": "Abalessa"
+      },
+      {
+        "commune_name": "In Ghar"
+      },
+      {
+        "commune_name": "In Guezzam"
+      },
+      {
+        "commune_name": "Idles"
+      },
+      {
+        "commune_name": "Tazouk"
+      },
+      {
+        "commune_name": "Tinzaouatine"
+      },
+      {
+        "commune_name": "In Salah"
+      },
+      {
+        "commune_name": "In Amguel"
+      },
+      {
+        "commune_name": "Foggaret Ezzaouia"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 12,
+    "wilaya_name": "تبسة",
+    "communes": [
+      {
+        "commune_name": "Tebessa"
+      },
+      {
+        "commune_name": "Bir El Ater"
+      },
+      {
+        "commune_name": "Cheria"
+      },
+      {
+        "commune_name": "Stah Guentis"
+      },
+      {
+        "commune_name": "El Aouinet"
+      },
+      {
+        "commune_name": "Lahouidjbet"
+      },
+      {
+        "commune_name": "Safsaf El Ouesra"
+      },
+      {
+        "commune_name": "Hammamet"
+      },
+      {
+        "commune_name": "Negrine"
+      },
+      {
+        "commune_name": "Bir El Mokadem"
+      },
+      {
+        "commune_name": "El Kouif"
+      },
+      {
+        "commune_name": "Morsott"
+      },
+      {
+        "commune_name": "El Ogla"
+      },
+      {
+        "commune_name": "Bir Dheb"
+      },
+      {
+        "commune_name": "El Ogla"
+      },
+      {
+        "commune_name": "Gorriguer"
+      },
+      {
+        "commune_name": "Bekkaria"
+      },
+      {
+        "commune_name": "Boukhadra"
+      },
+      {
+        "commune_name": "Ouenza"
+      },
+      {
+        "commune_name": "El Ma El Biodh"
+      },
+      {
+        "commune_name": "Oum Ali"
+      },
+      {
+        "commune_name": "Tlidjene"
+      },
+      {
+        "commune_name": "Ain Zerga"
+      },
+      {
+        "commune_name": "El Meridj"
+      },
+      {
+        "commune_name": "Boulhaf Dyr"
+      },
+      {
+        "commune_name": "Bedjene"
+      },
+      {
+        "commune_name": "El Mazeraa"
+      },
+      {
+        "commune_name": "Ferkane"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 13,
+    "wilaya_name": "تلمسان",
+    "communes": [
+      {
+        "commune_name": "Tlemcen"
+      },
+      {
+        "commune_name": "Beni Mester"
+      },
+      {
+        "commune_name": "Ain Tallout"
+      },
+      {
+        "commune_name": "Remchi"
+      },
+      {
+        "commune_name": "El Fehoul"
+      },
+      {
+        "commune_name": "Sabra"
+      },
+      {
+        "commune_name": "Ghazaouet"
+      },
+      {
+        "commune_name": "Souani"
+      },
+      {
+        "commune_name": "Djebala"
+      },
+      {
+        "commune_name": "El Gor"
+      },
+      {
+        "commune_name": "Oued Chouly"
+      },
+      {
+        "commune_name": "Ain Fezza"
+      },
+      {
+        "commune_name": "Ouled Mimoun"
+      },
+      {
+        "commune_name": "Amieur"
+      },
+      {
+        "commune_name": "Ain Youcef"
+      },
+      {
+        "commune_name": "Zenata"
+      },
+      {
+        "commune_name": "Beni Snous"
+      },
+      {
+        "commune_name": "Bab El Assa"
+      },
+      {
+        "commune_name": "Dar Yaghmouracene"
+      },
+      {
+        "commune_name": "Fellaoucene"
+      },
+      {
+        "commune_name": "Azails"
+      },
+      {
+        "commune_name": "Sebbaa Chioukh"
+      },
+      {
+        "commune_name": "Terni Beni Hediel"
+      },
+      {
+        "commune_name": "Bensekrane"
+      },
+      {
+        "commune_name": "Ain Nehala"
+      },
+      {
+        "commune_name": "Hennaya"
+      },
+      {
+        "commune_name": "Maghnia"
+      },
+      {
+        "commune_name": "Hammam Boughrara"
+      },
+      {
+        "commune_name": "Souahlia"
+      },
+      {
+        "commune_name": "Msirda Fouaga"
+      },
+      {
+        "commune_name": "Ain Fetah"
+      },
+      {
+        "commune_name": "El Aricha"
+      },
+      {
+        "commune_name": "Souk Thlata"
+      },
+      {
+        "commune_name": "Sidi Abdelli"
+      },
+      {
+        "commune_name": "Sebdou"
+      },
+      {
+        "commune_name": "Beni Ouarsous"
+      },
+      {
+        "commune_name": "Sidi Medjahed"
+      },
+      {
+        "commune_name": "Beni Boussaid"
+      },
+      {
+        "commune_name": "Marsa Ben Mhidi"
+      },
+      {
+        "commune_name": "Nedroma"
+      },
+      {
+        "commune_name": "Sidi Djillali"
+      },
+      {
+        "commune_name": "Beni Bahdel"
+      },
+      {
+        "commune_name": "El Bouihi"
+      },
+      {
+        "commune_name": "Honaine"
+      },
+      {
+        "commune_name": "Tianet"
+      },
+      {
+        "commune_name": "Ouled Riyah"
+      },
+      {
+        "commune_name": "Bouhlou"
+      },
+      {
+        "commune_name": "Souk El Khemis"
+      },
+      {
+        "commune_name": "Ain Ghoraba"
+      },
+      {
+        "commune_name": "Chetouane"
+      },
+      {
+        "commune_name": "Mansourah"
+      },
+      {
+        "commune_name": "Beni Semiel"
+      },
+      {
+        "commune_name": "Ain Kebira"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 14,
+    "wilaya_name": "تيارت‎",
+    "communes": [
+      {
+        "commune_name": "Tiaret"
+      },
+      {
+        "commune_name": "Medroussa"
+      },
+      {
+        "commune_name": "Ain Bouchekif"
+      },
+      {
+        "commune_name": "Sidi Ali Mellal"
+      },
+      {
+        "commune_name": "Ain Zarit"
+      },
+      {
+        "commune_name": "Ain Deheb"
+      },
+      {
+        "commune_name": "Sidi Bakhti"
+      },
+      {
+        "commune_name": "Medrissa"
+      },
+      {
+        "commune_name": "Zmalet El Emir Aek"
+      },
+      {
+        "commune_name": "Madna"
+      },
+      {
+        "commune_name": "Sebt"
+      },
+      {
+        "commune_name": "Mellakou"
+      },
+      {
+        "commune_name": "Dahmouni"
+      },
+      {
+        "commune_name": "Rahouia"
+      },
+      {
+        "commune_name": "Mahdia"
+      },
+      {
+        "commune_name": "Sougueur"
+      },
+      {
+        "commune_name": "Sidi Abdelghani"
+      },
+      {
+        "commune_name": "Ain El Hadid"
+      },
+      {
+        "commune_name": "Ouled Djerad"
+      },
+      {
+        "commune_name": "Naima"
+      },
+      {
+        "commune_name": "Meghila"
+      },
+      {
+        "commune_name": "Guertoufa"
+      },
+      {
+        "commune_name": "Sidi Hosni"
+      },
+      {
+        "commune_name": "Djillali Ben Amar"
+      },
+      {
+        "commune_name": "Sebaine"
+      },
+      {
+        "commune_name": "Tousnina"
+      },
+      {
+        "commune_name": "Frenda"
+      },
+      {
+        "commune_name": "Ain Kermes"
+      },
+      {
+        "commune_name": "Ksar Chellala"
+      },
+      {
+        "commune_name": "Rechaiga"
+      },
+      {
+        "commune_name": "Nadorah"
+      },
+      {
+        "commune_name": "Tagdemt"
+      },
+      {
+        "commune_name": "Oued Lilli"
+      },
+      {
+        "commune_name": "Mechraa Safa"
+      },
+      {
+        "commune_name": "Hamadia"
+      },
+      {
+        "commune_name": "Chehaima"
+      },
+      {
+        "commune_name": "Takhemaret"
+      },
+      {
+        "commune_name": "Sidi Abderrahmane"
+      },
+      {
+        "commune_name": "Serghine"
+      },
+      {
+        "commune_name": "Bougara"
+      },
+      {
+        "commune_name": "Faidja"
+      },
+      {
+        "commune_name": "Tidda"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 15,
+    "wilaya_name": "تيزي وزو",
+    "communes": [
+      {
+        "commune_name": "Tizi Ouzou"
+      },
+      {
+        "commune_name": "Ain El Hammam"
+      },
+      {
+        "commune_name": "Akbil"
+      },
+      {
+        "commune_name": "Freha"
+      },
+      {
+        "commune_name": "Souamaa"
+      },
+      {
+        "commune_name": "Mechtrass"
+      },
+      {
+        "commune_name": "Irdjen"
+      },
+      {
+        "commune_name": "Timizart"
+      },
+      {
+        "commune_name": "Makouda"
+      },
+      {
+        "commune_name": "Draa El Mizan"
+      },
+      {
+        "commune_name": "Tizi Ghenif"
+      },
+      {
+        "commune_name": "Bounouh"
+      },
+      {
+        "commune_name": "Ait Chaffaa"
+      },
+      {
+        "commune_name": "Frikat"
+      },
+      {
+        "commune_name": "Beni Aissi"
+      },
+      {
+        "commune_name": "Beni Zmenzer"
+      },
+      {
+        "commune_name": "Iferhounene"
+      },
+      {
+        "commune_name": "Azazga"
+      },
+      {
+        "commune_name": "Iloula Oumalou"
+      },
+      {
+        "commune_name": "Yakouren"
+      },
+      {
+        "commune_name": "Larba Nait Irathen"
+      },
+      {
+        "commune_name": "Tizi Rached"
+      },
+      {
+        "commune_name": "Zekri"
+      },
+      {
+        "commune_name": "Ouaguenoun"
+      },
+      {
+        "commune_name": "Ain Zaouia"
+      },
+      {
+        "commune_name": "Mkira"
+      },
+      {
+        "commune_name": "Ait Yahia"
+      },
+      {
+        "commune_name": "Ait Mahmoud"
+      },
+      {
+        "commune_name": "Maatka"
+      },
+      {
+        "commune_name": "Ait Boumehdi"
+      },
+      {
+        "commune_name": "Abi Youcef"
+      },
+      {
+        "commune_name": "Beni Douala"
+      },
+      {
+        "commune_name": "Illilten"
+      },
+      {
+        "commune_name": "Bouzguen"
+      },
+      {
+        "commune_name": "Ait Aggouacha"
+      },
+      {
+        "commune_name": "Ouadhia"
+      },
+      {
+        "commune_name": "Azzefoun"
+      },
+      {
+        "commune_name": "Tigzirt"
+      },
+      {
+        "commune_name": "Ait Aissa Mimoun"
+      },
+      {
+        "commune_name": "Boghni"
+      },
+      {
+        "commune_name": "Ifigha"
+      },
+      {
+        "commune_name": "Ait Oumalou"
+      },
+      {
+        "commune_name": "Tirmitine"
+      },
+      {
+        "commune_name": "Akerrou"
+      },
+      {
+        "commune_name": "Yatafen"
+      },
+      {
+        "commune_name": "Beni Ziki"
+      },
+      {
+        "commune_name": "Draa Ben Khedda"
+      },
+      {
+        "commune_name": "Ouacif"
+      },
+      {
+        "commune_name": "Idjeur"
+      },
+      {
+        "commune_name": "Mekla"
+      },
+      {
+        "commune_name": "Tizi Nthlata"
+      },
+      {
+        "commune_name": "Beni Yenni"
+      },
+      {
+        "commune_name": "Aghrib"
+      },
+      {
+        "commune_name": "Iflissen"
+      },
+      {
+        "commune_name": "Boudjima"
+      },
+      {
+        "commune_name": "Ait Yahia Moussa"
+      },
+      {
+        "commune_name": "Souk El Thenine"
+      },
+      {
+        "commune_name": "Ait Khelil"
+      },
+      {
+        "commune_name": "Sidi Naamane"
+      },
+      {
+        "commune_name": "Iboudraren"
+      },
+      {
+        "commune_name": "Agouni Gueghrane"
+      },
+      {
+        "commune_name": "Mizrana"
+      },
+      {
+        "commune_name": "Imsouhal"
+      },
+      {
+        "commune_name": "Tadmait"
+      },
+      {
+        "commune_name": "Ait Bouadou"
+      },
+      {
+        "commune_name": "Assi Youcef"
+      },
+      {
+        "commune_name": "Ait Toudert"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 16,
+    "wilaya_name": "الجزائر الوسطى",
+    "communes": [
+      {
+        "commune_name": "Alger Centre"
+      },
+      {
+        "commune_name": "Sidi Mhamed"
+      },
+      {
+        "commune_name": "El Madania"
+      },
+      {
+        "commune_name": "Belouizdad"
+      },
+      {
+        "commune_name": "Bab El Oued"
+      },
+      {
+        "commune_name": "Bologhine"
+      },
+      {
+        "commune_name": "Casbah"
+      },
+      {
+        "commune_name": "Oued Koriche"
+      },
+      {
+        "commune_name": "Bir Mourad Rais"
+      },
+      {
+        "commune_name": "El Biar"
+      },
+      {
+        "commune_name": "Bouzareah"
+      },
+      {
+        "commune_name": "Birkhadem"
+      },
+      {
+        "commune_name": "El Harrach"
+      },
+      {
+        "commune_name": "Baraki"
+      },
+      {
+        "commune_name": "Oued Smar"
+      },
+      {
+        "commune_name": "Bourouba"
+      },
+      {
+        "commune_name": "Hussein Dey"
+      },
+      {
+        "commune_name": "Kouba"
+      },
+      {
+        "commune_name": "Bachedjerah"
+      },
+      {
+        "commune_name": "Dar El Beida"
+      },
+      {
+        "commune_name": "Bab Azzouar"
+      },
+      {
+        "commune_name": "Ben Aknoun"
+      },
+      {
+        "commune_name": "Dely Ibrahim"
+      },
+      {
+        "commune_name": "El Hammamet"
+      },
+      {
+        "commune_name": "Rais Hamidou"
+      },
+      {
+        "commune_name": "Djasr Kasentina"
+      },
+      {
+        "commune_name": "El Mouradia"
+      },
+      {
+        "commune_name": "Hydra"
+      },
+      {
+        "commune_name": "Mohammadia"
+      },
+      {
+        "commune_name": "Bordj El Kiffan"
+      },
+      {
+        "commune_name": "El Magharia"
+      },
+      {
+        "commune_name": "Beni Messous"
+      },
+      {
+        "commune_name": "Les Eucalyptus"
+      },
+      {
+        "commune_name": "Birtouta"
+      },
+      {
+        "commune_name": "Tassala El Merdja"
+      },
+      {
+        "commune_name": "Ouled Chebel"
+      },
+      {
+        "commune_name": "Sidi Moussa"
+      },
+      {
+        "commune_name": "Ain Taya"
+      },
+      {
+        "commune_name": "Bordj El Bahri"
+      },
+      {
+        "commune_name": "Marsa"
+      },
+      {
+        "commune_name": "Haraoua"
+      },
+      {
+        "commune_name": "Rouiba"
+      },
+      {
+        "commune_name": "Reghaia"
+      },
+      {
+        "commune_name": "Ain Benian"
+      },
+      {
+        "commune_name": "Staoueli"
+      },
+      {
+        "commune_name": "Zeralda"
+      },
+      {
+        "commune_name": "Mahelma"
+      },
+      {
+        "commune_name": "Rahmania"
+      },
+      {
+        "commune_name": "Souidania"
+      },
+      {
+        "commune_name": "Cheraga"
+      },
+      {
+        "commune_name": "Ouled Fayet"
+      },
+      {
+        "commune_name": "El Achour"
+      },
+      {
+        "commune_name": "Draria"
+      },
+      {
+        "commune_name": "Douera"
+      },
+      {
+        "commune_name": "Baba Hassen"
+      },
+      {
+        "commune_name": "Khracia"
+      },
+      {
+        "commune_name": "Saoula"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 17,
+    "wilaya_name": "الجلفة",
+    "communes": [
+      {
+        "commune_name": "Djelfa"
+      },
+      {
+        "commune_name": "Moudjebara"
+      },
+      {
+        "commune_name": "El Guedid"
+      },
+      {
+        "commune_name": "Hassi Bahbah"
+      },
+      {
+        "commune_name": "Ain Maabed"
+      },
+      {
+        "commune_name": "Sed Rahal"
+      },
+      {
+        "commune_name": "Feidh El Botma"
+      },
+      {
+        "commune_name": "Birine"
+      },
+      {
+        "commune_name": "Bouira Lahdeb"
+      },
+      {
+        "commune_name": "Zaccar"
+      },
+      {
+        "commune_name": "El Khemis"
+      },
+      {
+        "commune_name": "Sidi Baizid"
+      },
+      {
+        "commune_name": "M'Liliha"
+      },
+      {
+        "commune_name": "El Idrissia"
+      },
+      {
+        "commune_name": "Douis"
+      },
+      {
+        "commune_name": "Hassi El Euch"
+      },
+      {
+        "commune_name": "Messaad"
+      },
+      {
+        "commune_name": "Guettara"
+      },
+      {
+        "commune_name": "Sidi Ladjel"
+      },
+      {
+        "commune_name": "Had Sahary"
+      },
+      {
+        "commune_name": "Guernini"
+      },
+      {
+        "commune_name": "Selmana"
+      },
+      {
+        "commune_name": "Ain Chouhada"
+      },
+      {
+        "commune_name": "Oum Laadham"
+      },
+      {
+        "commune_name": "Dar Chouikh"
+      },
+      {
+        "commune_name": "Charef"
+      },
+      {
+        "commune_name": "Beni Yacoub"
+      },
+      {
+        "commune_name": "Zaafrane"
+      },
+      {
+        "commune_name": "Deldoul"
+      },
+      {
+        "commune_name": "Ain El Ibel"
+      },
+      {
+        "commune_name": "Ain Oussera"
+      },
+      {
+        "commune_name": "Benhar"
+      },
+      {
+        "commune_name": "Hassi Fedoul"
+      },
+      {
+        "commune_name": "Amourah"
+      },
+      {
+        "commune_name": "Ain Fekka"
+      },
+      {
+        "commune_name": "Tadmit"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 18,
+    "wilaya_name": "جيجل",
+    "communes": [
+      {
+        "commune_name": "Jijel"
+      },
+      {
+        "commune_name": "Erraguene"
+      },
+      {
+        "commune_name": "El Aouana"
+      },
+      {
+        "commune_name": "Ziamma Mansouriah"
+      },
+      {
+        "commune_name": "Taher"
+      },
+      {
+        "commune_name": "Emir Abdelkader"
+      },
+      {
+        "commune_name": "Chekfa"
+      },
+      {
+        "commune_name": "Chahna"
+      },
+      {
+        "commune_name": "El Milia"
+      },
+      {
+        "commune_name": "Sidi Maarouf"
+      },
+      {
+        "commune_name": "Settara"
+      },
+      {
+        "commune_name": "El Ancer"
+      },
+      {
+        "commune_name": "Sidi Abdelaziz"
+      },
+      {
+        "commune_name": "Kaous"
+      },
+      {
+        "commune_name": "Ghebala"
+      },
+      {
+        "commune_name": "Bouraoui Belhadef"
+      },
+      {
+        "commune_name": "Djmila"
+      },
+      {
+        "commune_name": "Selma Benziada"
+      },
+      {
+        "commune_name": "Boussif Ouled Askeur"
+      },
+      {
+        "commune_name": "El Kennar Nouchfi"
+      },
+      {
+        "commune_name": "Ouled Yahia Khadrouch"
+      },
+      {
+        "commune_name": "Boudria Beni Yadjis"
+      },
+      {
+        "commune_name": "Kemir Oued Adjoul"
+      },
+      {
+        "commune_name": "Texena"
+      },
+      {
+        "commune_name": "Djemaa Beni Habibi"
+      },
+      {
+        "commune_name": "Bordj T'her"
+      },
+      {
+        "commune_name": "Ouled Rabah"
+      },
+      {
+        "commune_name": "Ouadjana"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 19,
+    "wilaya_name": "سطيف‎",
+    "communes": [
+      {
+        "commune_name": "Setif"
+      },
+      {
+        "commune_name": "Ain El Kebira"
+      },
+      {
+        "commune_name": "Beni Aziz"
+      },
+      {
+        "commune_name": "Ouled Sidi Ahmed"
+      },
+      {
+        "commune_name": "Boutaleb"
+      },
+      {
+        "commune_name": "Ain Roua"
+      },
+      {
+        "commune_name": "Draa Kebila"
+      },
+      {
+        "commune_name": "Bir El Arch"
+      },
+      {
+        "commune_name": "Beni Chebana"
+      },
+      {
+        "commune_name": "Ouled Tebben"
+      },
+      {
+        "commune_name": "Hamma"
+      },
+      {
+        "commune_name": "Maaouia"
+      },
+      {
+        "commune_name": "Ain Legraj"
+      },
+      {
+        "commune_name": "Ain Abessa"
+      },
+      {
+        "commune_name": "Dehamcha"
+      },
+      {
+        "commune_name": "Babor"
+      },
+      {
+        "commune_name": "Guidjel"
+      },
+      {
+        "commune_name": "Ain Lahdjar"
+      },
+      {
+        "commune_name": "Bousselam"
+      },
+      {
+        "commune_name": "El Eulma"
+      },
+      {
+        "commune_name": "Djemila"
+      },
+      {
+        "commune_name": "Beni Ouartilane"
+      },
+      {
+        "commune_name": "Rosfa"
+      },
+      {
+        "commune_name": "Ouled Addouane"
+      },
+      {
+        "commune_name": "Belaa"
+      },
+      {
+        "commune_name": "Ain Arnat"
+      },
+      {
+        "commune_name": "Amoucha"
+      },
+      {
+        "commune_name": "Ain Oulmane"
+      },
+      {
+        "commune_name": "Beidha Bordj"
+      },
+      {
+        "commune_name": "Bouandas"
+      },
+      {
+        "commune_name": "Bazer Sakhra"
+      },
+      {
+        "commune_name": "Hammam Essokhna"
+      },
+      {
+        "commune_name": "Mezloug"
+      },
+      {
+        "commune_name": "Bir Haddada"
+      },
+      {
+        "commune_name": "Serdj El Ghoul"
+      },
+      {
+        "commune_name": "Harbil"
+      },
+      {
+        "commune_name": "El Ouricia"
+      },
+      {
+        "commune_name": "Tizi Nbechar"
+      },
+      {
+        "commune_name": "Salah Bey"
+      },
+      {
+        "commune_name": "Ain Azal"
+      },
+      {
+        "commune_name": "Guenzet"
+      },
+      {
+        "commune_name": "Talaifacene"
+      },
+      {
+        "commune_name": "Bougaa"
+      },
+      {
+        "commune_name": "Beni Fouda"
+      },
+      {
+        "commune_name": "Tachouda"
+      },
+      {
+        "commune_name": "Beni Mouhli"
+      },
+      {
+        "commune_name": "Ouled Sabor"
+      },
+      {
+        "commune_name": "Guellal"
+      },
+      {
+        "commune_name": "Ain Sebt"
+      },
+      {
+        "commune_name": "Hammam Guergour"
+      },
+      {
+        "commune_name": "Ait Naoual Mezada"
+      },
+      {
+        "commune_name": "Ksar El Abtal"
+      },
+      {
+        "commune_name": "Beni Hocine"
+      },
+      {
+        "commune_name": "Ait Tizi"
+      },
+      {
+        "commune_name": "Maouklane"
+      },
+      {
+        "commune_name": "Guelta Zerka"
+      },
+      {
+        "commune_name": "Oued El Barad"
+      },
+      {
+        "commune_name": "Taya"
+      },
+      {
+        "commune_name": "El Ouldja"
+      },
+      {
+        "commune_name": "Tella"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 20,
+    "wilaya_name": "سعيدة",
+    "communes": [
+      {
+        "commune_name": "Saida"
+      },
+      {
+        "commune_name": "Doui Thabet"
+      },
+      {
+        "commune_name": "Ain El Hadjar"
+      },
+      {
+        "commune_name": "Ouled Khaled"
+      },
+      {
+        "commune_name": "Moulay Larbi"
+      },
+      {
+        "commune_name": "Youb"
+      },
+      {
+        "commune_name": "Hounet"
+      },
+      {
+        "commune_name": "Sidi Amar"
+      },
+      {
+        "commune_name": "Sidi Boubekeur"
+      },
+      {
+        "commune_name": "El Hassasna"
+      },
+      {
+        "commune_name": "Maamora"
+      },
+      {
+        "commune_name": "Sidi Ahmed"
+      },
+      {
+        "commune_name": "Ain Sekhouna"
+      },
+      {
+        "commune_name": "Ouled Brahim"
+      },
+      {
+        "commune_name": "Tircine"
+      },
+      {
+        "commune_name": "Ain Soltane"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 21,
+    "wilaya_name": "سكيكدة",
+    "communes": [
+      {
+        "commune_name": "Skikda"
+      },
+      {
+        "commune_name": "Ain Zouit"
+      },
+      {
+        "commune_name": "El Hadaik"
+      },
+      {
+        "commune_name": "Azzaba"
+      },
+      {
+        "commune_name": "Djendel"
+      },
+      {
+        "commune_name": "Ain Cherchar"
+      },
+      {
+        "commune_name": "Bekkouche Lakhdar"
+      },
+      {
+        "commune_name": "Ben Azzouz"
+      },
+      {
+        "commune_name": "Es Sebt"
+      },
+      {
+        "commune_name": "Collo"
+      },
+      {
+        "commune_name": "Beni Zid"
+      },
+      {
+        "commune_name": "Kerkera"
+      },
+      {
+        "commune_name": "Ouled Attia"
+      },
+      {
+        "commune_name": "Oued Zehour"
+      },
+      {
+        "commune_name": "Zitouna"
+      },
+      {
+        "commune_name": "El Harrouch"
+      },
+      {
+        "commune_name": "Zerdazas"
+      },
+      {
+        "commune_name": "Ouled Hebaba"
+      },
+      {
+        "commune_name": "Sidi Mezghiche"
+      },
+      {
+        "commune_name": "Emdjez Edchich"
+      },
+      {
+        "commune_name": "Beni Oulbane"
+      },
+      {
+        "commune_name": "Ain Bouziane"
+      },
+      {
+        "commune_name": "Ramdane Djamel"
+      },
+      {
+        "commune_name": "Beni Bachir"
+      },
+      {
+        "commune_name": "Salah Bouchaour"
+      },
+      {
+        "commune_name": "Tamalous"
+      },
+      {
+        "commune_name": "Ain Kechra"
+      },
+      {
+        "commune_name": "Oum Toub"
+      },
+      {
+        "commune_name": "Bein El Ouiden"
+      },
+      {
+        "commune_name": "Filfila"
+      },
+      {
+        "commune_name": "Cheraia"
+      },
+      {
+        "commune_name": "Kanoua"
+      },
+      {
+        "commune_name": "El Ghedir"
+      },
+      {
+        "commune_name": "Bouchtata"
+      },
+      {
+        "commune_name": "Ouldja Boulbalout"
+      },
+      {
+        "commune_name": "Kheneg Mayoum"
+      },
+      {
+        "commune_name": "Hamadi Krouma"
+      },
+      {
+        "commune_name": "El Marsa"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 22,
+    "wilaya_name": "سيدي بلعباس",
+    "communes": [
+      {
+        "commune_name": "Sidi Bel Abbes"
+      },
+      {
+        "commune_name": "Tessala"
+      },
+      {
+        "commune_name": "Sidi Brahim"
+      },
+      {
+        "commune_name": "Mostefa Ben Brahim"
+      },
+      {
+        "commune_name": "Telagh"
+      },
+      {
+        "commune_name": "Mezaourou"
+      },
+      {
+        "commune_name": "Boukhanafis"
+      },
+      {
+        "commune_name": "Sidi Ali Boussidi"
+      },
+      {
+        "commune_name": "Badredine El Mokrani"
+      },
+      {
+        "commune_name": "Marhoum"
+      },
+      {
+        "commune_name": "Tafissour"
+      },
+      {
+        "commune_name": "Amarnas"
+      },
+      {
+        "commune_name": "Tilmouni"
+      },
+      {
+        "commune_name": "Sidi Lahcene"
+      },
+      {
+        "commune_name": "Ain Thrid"
+      },
+      {
+        "commune_name": "Makedra"
+      },
+      {
+        "commune_name": "Tenira"
+      },
+      {
+        "commune_name": "Moulay Slissen"
+      },
+      {
+        "commune_name": "El Hacaiba"
+      },
+      {
+        "commune_name": "Hassi Zehana"
+      },
+      {
+        "commune_name": "Tabia"
+      },
+      {
+        "commune_name": "Merine"
+      },
+      {
+        "commune_name": "Ras El Ma"
+      },
+      {
+        "commune_name": "Ain Tindamine"
+      },
+      {
+        "commune_name": "Ain Kada"
+      },
+      {
+        "commune_name": "Mcid"
+      },
+      {
+        "commune_name": "Sidi Khaled"
+      },
+      {
+        "commune_name": "Ain El Berd"
+      },
+      {
+        "commune_name": "Sfissef"
+      },
+      {
+        "commune_name": "Ain Adden"
+      },
+      {
+        "commune_name": "Oued Taourira"
+      },
+      {
+        "commune_name": "Dhaya"
+      },
+      {
+        "commune_name": "Zerouala"
+      },
+      {
+        "commune_name": "Lamtar"
+      },
+      {
+        "commune_name": "Sidi Chaib"
+      },
+      {
+        "commune_name": "Sidi Dahou"
+      },
+      {
+        "commune_name": "Oued Sbaa"
+      },
+      {
+        "commune_name": "Boudjebaa El Bordj"
+      },
+      {
+        "commune_name": "Sehala Thaoura"
+      },
+      {
+        "commune_name": "Sidi Yacoub"
+      },
+      {
+        "commune_name": "Sidi Hamadouche"
+      },
+      {
+        "commune_name": "Belarbi"
+      },
+      {
+        "commune_name": "Oued Sefioun"
+      },
+      {
+        "commune_name": "Teghalimet"
+      },
+      {
+        "commune_name": "Ben Badis"
+      },
+      {
+        "commune_name": "Sidi Ali Benyoub"
+      },
+      {
+        "commune_name": "Chetouane Belaila"
+      },
+      {
+        "commune_name": "Bir El Hammam"
+      },
+      {
+        "commune_name": "Taoudmout"
+      },
+      {
+        "commune_name": "Redjem Demouche"
+      },
+      {
+        "commune_name": "Benachiba Chelia"
+      },
+      {
+        "commune_name": "Hassi Dahou"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 23,
+    "wilaya_name": "عنابة",
+    "communes": [
+      {
+        "commune_name": "Annaba"
+      },
+      {
+        "commune_name": "Berrahel"
+      },
+      {
+        "commune_name": "El Hadjar"
+      },
+      {
+        "commune_name": "Eulma"
+      },
+      {
+        "commune_name": "El Bouni"
+      },
+      {
+        "commune_name": "Oued El Aneb"
+      },
+      {
+        "commune_name": "Cheurfa"
+      },
+      {
+        "commune_name": "Seraidi"
+      },
+      {
+        "commune_name": "Ain Berda"
+      },
+      {
+        "commune_name": "Chetaibi"
+      },
+      {
+        "commune_name": "Sidi Amer"
+      },
+      {
+        "commune_name": "Treat"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 24,
+    "wilaya_name": "قالمة",
+    "communes": [
+      {
+        "commune_name": "Guelma"
+      },
+      {
+        "commune_name": "Nechmaya"
+      },
+      {
+        "commune_name": "Bouati Mahmoud"
+      },
+      {
+        "commune_name": "Oued Zenati"
+      },
+      {
+        "commune_name": "Tamlouka"
+      },
+      {
+        "commune_name": "Oued Fragha"
+      },
+      {
+        "commune_name": "Ain Sandel"
+      },
+      {
+        "commune_name": "Ras El Agba"
+      },
+      {
+        "commune_name": "Dahouara"
+      },
+      {
+        "commune_name": "Belkhir"
+      },
+      {
+        "commune_name": "Ben Djarah"
+      },
+      {
+        "commune_name": "Bou Hamdane"
+      },
+      {
+        "commune_name": "Ain Makhlouf"
+      },
+      {
+        "commune_name": "Ain Ben Beida"
+      },
+      {
+        "commune_name": "Khezara"
+      },
+      {
+        "commune_name": "Beni Mezline"
+      },
+      {
+        "commune_name": "Bou Hachana"
+      },
+      {
+        "commune_name": "Guelaat Bou Sbaa"
+      },
+      {
+        "commune_name": "Hammam Maskhoutine"
+      },
+      {
+        "commune_name": "El Fedjoudj"
+      },
+      {
+        "commune_name": "Bordj Sabat"
+      },
+      {
+        "commune_name": "Hamman Nbail"
+      },
+      {
+        "commune_name": "Ain Larbi"
+      },
+      {
+        "commune_name": "Medjez Amar"
+      },
+      {
+        "commune_name": "Bouchegouf"
+      },
+      {
+        "commune_name": "Heliopolis"
+      },
+      {
+        "commune_name": "Houari Boumediene"
+      },
+      {
+        "commune_name": "Roknia"
+      },
+      {
+        "commune_name": "Salaoua Announa"
+      },
+      {
+        "commune_name": "Medjez Sfa"
+      },
+      {
+        "commune_name": "Boumahra Ahmed"
+      },
+      {
+        "commune_name": "Ain Reggada"
+      },
+      {
+        "commune_name": "Oued Cheham"
+      },
+      {
+        "commune_name": "Djeballah Khemissi"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 25,
+    "wilaya_name": "قسنطينة",
+    "communes": [
+      {
+        "commune_name": "Constantine"
+      },
+      {
+        "commune_name": "Hamma Bouziane"
+      },
+      {
+        "commune_name": "Ibn Badis"
+      },
+      {
+        "commune_name": "Zighoud Youcef"
+      },
+      {
+        "commune_name": "Didouche Mourad"
+      },
+      {
+        "commune_name": "El Khroub"
+      },
+      {
+        "commune_name": "Ain Abid"
+      },
+      {
+        "commune_name": "Beni Hamiden"
+      },
+      {
+        "commune_name": "Ouled Rahmoune"
+      },
+      {
+        "commune_name": "Ain Smara"
+      },
+      {
+        "commune_name": "Mesaoud Boudjeriou"
+      },
+      {
+        "commune_name": "Ibn Ziad"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 26,
+    "wilaya_name": "المدية",
+    "communes": [
+      {
+        "commune_name": "Medea"
+      },
+      {
+        "commune_name": "Ouzera"
+      },
+      {
+        "commune_name": "Ouled Maaref"
+      },
+      {
+        "commune_name": "Ain Boucif"
+      },
+      {
+        "commune_name": "Aissaouia"
+      },
+      {
+        "commune_name": "Ouled Deide"
+      },
+      {
+        "commune_name": "El Omaria"
+      },
+      {
+        "commune_name": "Derrag"
+      },
+      {
+        "commune_name": "El Guelbelkebir"
+      },
+      {
+        "commune_name": "Bouaiche"
+      },
+      {
+        "commune_name": "Mezerena"
+      },
+      {
+        "commune_name": "Ouled Brahim"
+      },
+      {
+        "commune_name": "Tizi Mahdi"
+      },
+      {
+        "commune_name": "Sidi Ziane"
+      },
+      {
+        "commune_name": "Tamesguida"
+      },
+      {
+        "commune_name": "El Hamdania"
+      },
+      {
+        "commune_name": "Kef Lakhdar"
+      },
+      {
+        "commune_name": "Chelalet El Adhaoura"
+      },
+      {
+        "commune_name": "Bouskene"
+      },
+      {
+        "commune_name": "Rebaia"
+      },
+      {
+        "commune_name": "Bouchrahil"
+      },
+      {
+        "commune_name": "Ouled Hellal"
+      },
+      {
+        "commune_name": "Tafraout"
+      },
+      {
+        "commune_name": "Baata"
+      },
+      {
+        "commune_name": "Boghar"
+      },
+      {
+        "commune_name": "Sidi Naamane"
+      },
+      {
+        "commune_name": "Ouled Bouachra"
+      },
+      {
+        "commune_name": "Sidi Zahar"
+      },
+      {
+        "commune_name": "Oued Harbil"
+      },
+      {
+        "commune_name": "Benchicao"
+      },
+      {
+        "commune_name": "Sidi Damed"
+      },
+      {
+        "commune_name": "Aziz"
+      },
+      {
+        "commune_name": "Souagui"
+      },
+      {
+        "commune_name": "Zoubiria"
+      },
+      {
+        "commune_name": "Ksar El Boukhari"
+      },
+      {
+        "commune_name": "El Azizia"
+      },
+      {
+        "commune_name": "Djouab"
+      },
+      {
+        "commune_name": "Chahbounia"
+      },
+      {
+        "commune_name": "Meghraoua"
+      },
+      {
+        "commune_name": "Cheniguel"
+      },
+      {
+        "commune_name": "Ain Ouksir"
+      },
+      {
+        "commune_name": "Oum El Djalil"
+      },
+      {
+        "commune_name": "Ouamri"
+      },
+      {
+        "commune_name": "Si Mahdjoub"
+      },
+      {
+        "commune_name": "Tlatet Eddouair"
+      },
+      {
+        "commune_name": "Beni Slimane"
+      },
+      {
+        "commune_name": "Berrouaghia"
+      },
+      {
+        "commune_name": "Seghouane"
+      },
+      {
+        "commune_name": "Meftaha"
+      },
+      {
+        "commune_name": "Mihoub"
+      },
+      {
+        "commune_name": "Boughezoul"
+      },
+      {
+        "commune_name": "Tablat"
+      },
+      {
+        "commune_name": "Deux Bassins"
+      },
+      {
+        "commune_name": "Draa Essamar"
+      },
+      {
+        "commune_name": "Sidi Errabia"
+      },
+      {
+        "commune_name": "Bir Ben Laabed"
+      },
+      {
+        "commune_name": "El Ouinet"
+      },
+      {
+        "commune_name": "Ouled Antar"
+      },
+      {
+        "commune_name": "Bouaichoune"
+      },
+      {
+        "commune_name": "Hannacha"
+      },
+      {
+        "commune_name": "Sedraia"
+      },
+      {
+        "commune_name": "Medjebar"
+      },
+      {
+        "commune_name": "Khams Djouamaa"
+      },
+      {
+        "commune_name": "Saneg"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 27,
+    "wilaya_name": "مستغانم",
+    "communes": [
+      {
+        "commune_name": "Mostaganem"
+      },
+      {
+        "commune_name": "Sayada"
+      },
+      {
+        "commune_name": "Fornaka"
+      },
+      {
+        "commune_name": "Stidia"
+      },
+      {
+        "commune_name": "Ain Nouissy"
+      },
+      {
+        "commune_name": "Hassi Maameche"
+      },
+      {
+        "commune_name": "Ain Tadles"
+      },
+      {
+        "commune_name": "Sour"
+      },
+      {
+        "commune_name": "Oued El Kheir"
+      },
+      {
+        "commune_name": "Sidi Bellater"
+      },
+      {
+        "commune_name": "Kheiredine"
+      },
+      {
+        "commune_name": "Sidi Ali"
+      },
+      {
+        "commune_name": "Abdelmalek Ramdane"
+      },
+      {
+        "commune_name": "Hadjadj"
+      },
+      {
+        "commune_name": "Nekmaria"
+      },
+      {
+        "commune_name": "Sidi Lakhdar"
+      },
+      {
+        "commune_name": "Achaacha"
+      },
+      {
+        "commune_name": "Khadra"
+      },
+      {
+        "commune_name": "Bouguirat"
+      },
+      {
+        "commune_name": "Sirat"
+      },
+      {
+        "commune_name": "Ain Sidi Cherif"
+      },
+      {
+        "commune_name": "Mesra"
+      },
+      {
+        "commune_name": "Mansourah"
+      },
+      {
+        "commune_name": "Souaflia"
+      },
+      {
+        "commune_name": "Ouled Boughalem"
+      },
+      {
+        "commune_name": "Ouled Maallah"
+      },
+      {
+        "commune_name": "Mezghrane"
+      },
+      {
+        "commune_name": "Ain Boudinar"
+      },
+      {
+        "commune_name": "Tazgait"
+      },
+      {
+        "commune_name": "Safsaf"
+      },
+      {
+        "commune_name": "Touahria"
+      },
+      {
+        "commune_name": "El Hassiane"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 28,
+    "wilaya_name": "المسيلة",
+    "communes": [
+      {
+        "commune_name": "Msila"
+      },
+      {
+        "commune_name": "Maadid"
+      },
+      {
+        "commune_name": "Hammam Dhalaa"
+      },
+      {
+        "commune_name": "Ouled Derradj"
+      },
+      {
+        "commune_name": "Tarmount"
+      },
+      {
+        "commune_name": "Mtarfa"
+      },
+      {
+        "commune_name": "Khoubana"
+      },
+      {
+        "commune_name": "M'cif"
+      },
+      {
+        "commune_name": "Chellal"
+      },
+      {
+        "commune_name": "Ouled Madhi"
+      },
+      {
+        "commune_name": "Magra"
+      },
+      {
+        "commune_name": "Berhoum"
+      },
+      {
+        "commune_name": "Ain Khadra"
+      },
+      {
+        "commune_name": "Ouled Addi Guebala"
+      },
+      {
+        "commune_name": "Belaiba"
+      },
+      {
+        "commune_name": "Sidi Aissa"
+      },
+      {
+        "commune_name": "Ain El Hadjel"
+      },
+      {
+        "commune_name": "Sidi Hadjeres"
+      },
+      {
+        "commune_name": "Ouanougha"
+      },
+      {
+        "commune_name": "Bou Saada"
+      },
+      {
+        "commune_name": "Ouled Sidi Brahim"
+      },
+      {
+        "commune_name": "Sidi Ameur"
+      },
+      {
+        "commune_name": "Tamsa"
+      },
+      {
+        "commune_name": "Ben Srour"
+      },
+      {
+        "commune_name": "Ouled Slimane"
+      },
+      {
+        "commune_name": "El Houamed"
+      },
+      {
+        "commune_name": "El Hamel"
+      },
+      {
+        "commune_name": "Ouled Mansour"
+      },
+      {
+        "commune_name": "Maarif"
+      },
+      {
+        "commune_name": "Dehahna"
+      },
+      {
+        "commune_name": "Bouti Sayah"
+      },
+      {
+        "commune_name": "Khettouti Sed Djir"
+      },
+      {
+        "commune_name": "Zarzour"
+      },
+      {
+        "commune_name": "Oued Chair"
+      },
+      {
+        "commune_name": "Benzouh"
+      },
+      {
+        "commune_name": "Bir Foda"
+      },
+      {
+        "commune_name": "Ain Fares"
+      },
+      {
+        "commune_name": "Sidi Mhamed"
+      },
+      {
+        "commune_name": "Ouled Atia"
+      },
+      {
+        "commune_name": "Souamaa"
+      },
+      {
+        "commune_name": "Ain El Melh"
+      },
+      {
+        "commune_name": "Medjedel"
+      },
+      {
+        "commune_name": "Slim"
+      },
+      {
+        "commune_name": "Ain Errich"
+      },
+      {
+        "commune_name": "Beni Ilmane"
+      },
+      {
+        "commune_name": "Oultene"
+      },
+      {
+        "commune_name": "Djebel Messaad"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 29,
+    "wilaya_name": "مـعـسـكـر",
+    "communes": [
+      {
+        "commune_name": "Mascara"
+      },
+      {
+        "commune_name": "Bou Hanifia"
+      },
+      {
+        "commune_name": "Tizi"
+      },
+      {
+        "commune_name": "Hacine"
+      },
+      {
+        "commune_name": "Maoussa"
+      },
+      {
+        "commune_name": "Teghennif"
+      },
+      {
+        "commune_name": "El Hachem"
+      },
+      {
+        "commune_name": "Sidi Kada"
+      },
+      {
+        "commune_name": "Zelmata"
+      },
+      {
+        "commune_name": "Oued El Abtal"
+      },
+      {
+        "commune_name": "Ain Ferah"
+      },
+      {
+        "commune_name": "Ghriss"
+      },
+      {
+        "commune_name": "Froha"
+      },
+      {
+        "commune_name": "Matemore"
+      },
+      {
+        "commune_name": "Makdha"
+      },
+      {
+        "commune_name": "Sidi Boussaid"
+      },
+      {
+        "commune_name": "El Bordj"
+      },
+      {
+        "commune_name": "Ain Fekan"
+      },
+      {
+        "commune_name": "Benian"
+      },
+      {
+        "commune_name": "Khalouia"
+      },
+      {
+        "commune_name": "El Menaouer"
+      },
+      {
+        "commune_name": "Oued Taria"
+      },
+      {
+        "commune_name": "Aouf"
+      },
+      {
+        "commune_name": "Ain Fares"
+      },
+      {
+        "commune_name": "Ain Frass"
+      },
+      {
+        "commune_name": "Sig"
+      },
+      {
+        "commune_name": "Oggaz"
+      },
+      {
+        "commune_name": "Alaimia"
+      },
+      {
+        "commune_name": "El Gaada"
+      },
+      {
+        "commune_name": "Zahana"
+      },
+      {
+        "commune_name": "Mohammadia"
+      },
+      {
+        "commune_name": "Sidi Abdelmoumene"
+      },
+      {
+        "commune_name": "Ferraguig"
+      },
+      {
+        "commune_name": "El Ghomri"
+      },
+      {
+        "commune_name": "Sedjerara"
+      },
+      {
+        "commune_name": "Moctadouz"
+      },
+      {
+        "commune_name": "Bou Henni"
+      },
+      {
+        "commune_name": "Guettena"
+      },
+      {
+        "commune_name": "El Mamounia"
+      },
+      {
+        "commune_name": "El Keurt"
+      },
+      {
+        "commune_name": "Gharrous"
+      },
+      {
+        "commune_name": "Gherdjoum"
+      },
+      {
+        "commune_name": "Chorfa"
+      },
+      {
+        "commune_name": "Ras Ain Amirouche"
+      },
+      {
+        "commune_name": "Nesmot"
+      },
+      {
+        "commune_name": "Sidi Abdeldjebar"
+      },
+      {
+        "commune_name": "Sehailia"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 30,
+    "wilaya_name": "ورڨلة",
+    "communes": [
+      {
+        "commune_name": "Ouargla"
+      },
+      {
+        "commune_name": "Ain Beida"
+      },
+      {
+        "commune_name": "Ngoussa"
+      },
+      {
+        "commune_name": "Hassi Messaoud"
+      },
+      {
+        "commune_name": "Rouissat"
+      },
+      {
+        "commune_name": "Balidat Ameur"
+      },
+      {
+        "commune_name": "Tebesbest"
+      },
+      {
+        "commune_name": "Nezla"
+      },
+      {
+        "commune_name": "Zaouia El Abidia"
+      },
+      {
+        "commune_name": "Sidi Slimane"
+      },
+      {
+        "commune_name": "Sidi Khouiled"
+      },
+      {
+        "commune_name": "Hassi Ben Abdellah"
+      },
+      {
+        "commune_name": "Touggourt"
+      },
+      {
+        "commune_name": "El Hadjira"
+      },
+      {
+        "commune_name": "Taibet"
+      },
+      {
+        "commune_name": "Tamacine"
+      },
+      {
+        "commune_name": "Benaceur"
+      },
+      {
+        "commune_name": "Mnaguer"
+      },
+      {
+        "commune_name": "Megarine"
+      },
+      {
+        "commune_name": "El Allia"
+      },
+      {
+        "commune_name": "El Borma"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 31,
+    "wilaya_name": "وهران",
+    "communes": [
+      {
+        "commune_name": "Oran"
+      },
+      {
+        "commune_name": "Gdyel"
+      },
+      {
+        "commune_name": "Bir El Djir"
+      },
+      {
+        "commune_name": "Hassi Bounif"
+      },
+      {
+        "commune_name": "Es Senia"
+      },
+      {
+        "commune_name": "Arzew"
+      },
+      {
+        "commune_name": "Bethioua"
+      },
+      {
+        "commune_name": "Marsat El Hadjadj"
+      },
+      {
+        "commune_name": "Ain Turk"
+      },
+      {
+        "commune_name": "El Ancar"
+      },
+      {
+        "commune_name": "Oued Tlelat"
+      },
+      {
+        "commune_name": "Tafraoui"
+      },
+      {
+        "commune_name": "Sidi Chami"
+      },
+      {
+        "commune_name": "Boufatis"
+      },
+      {
+        "commune_name": "Mers El Kebir"
+      },
+      {
+        "commune_name": "Bousfer"
+      },
+      {
+        "commune_name": "El Karma"
+      },
+      {
+        "commune_name": "El Braya"
+      },
+      {
+        "commune_name": "Hassi Ben Okba"
+      },
+      {
+        "commune_name": "Ben Freha"
+      },
+      {
+        "commune_name": "Hassi Mefsoukh"
+      },
+      {
+        "commune_name": "Sidi Ben Yabka"
+      },
+      {
+        "commune_name": "Messerghin"
+      },
+      {
+        "commune_name": "Boutlelis"
+      },
+      {
+        "commune_name": "Ain Kerma"
+      },
+      {
+        "commune_name": "Ain Biya"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 32,
+    "wilaya_name": "الـبـيـض",
+    "communes": [
+      {
+        "commune_name": "El Bayadh"
+      },
+      {
+        "commune_name": "Rogassa"
+      },
+      {
+        "commune_name": "Stitten"
+      },
+      {
+        "commune_name": "Brezina"
+      },
+      {
+        "commune_name": "Ghassoul"
+      },
+      {
+        "commune_name": "Boualem"
+      },
+      {
+        "commune_name": "El Abiodh Sidi Cheikh"
+      },
+      {
+        "commune_name": "Ain El Orak"
+      },
+      {
+        "commune_name": "Arbaouat"
+      },
+      {
+        "commune_name": "Bougtoub"
+      },
+      {
+        "commune_name": "El Kheither"
+      },
+      {
+        "commune_name": "Kef El Ahmar"
+      },
+      {
+        "commune_name": "Boussemghoun"
+      },
+      {
+        "commune_name": "Chellala"
+      },
+      {
+        "commune_name": "Krakda"
+      },
+      {
+        "commune_name": "El Bnoud"
+      },
+      {
+        "commune_name": "Cheguig"
+      },
+      {
+        "commune_name": "Sidi Ameur"
+      },
+      {
+        "commune_name": "El Mehara"
+      },
+      {
+        "commune_name": "Tousmouline"
+      },
+      {
+        "commune_name": "Sidi Slimane"
+      },
+      {
+        "commune_name": "Sidi Tifour"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 33,
+    "wilaya_name": "إلـيـزي",
+    "communes": [
+      {
+        "commune_name": "Illizi"
+      },
+      {
+        "commune_name": "Djanet"
+      },
+      {
+        "commune_name": "Debdeb"
+      },
+      {
+        "commune_name": "Bordj Omar Driss"
+      },
+      {
+        "commune_name": "Bordj El Haouasse"
+      },
+      {
+        "commune_name": "In Amenas"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 34,
+    "wilaya_name": "برج بوعريريج",
+    "communes": [
+      {
+        "commune_name": "Bordj Bou Arreridj"
+      },
+      {
+        "commune_name": "Ras El Oued"
+      },
+      {
+        "commune_name": "Bordj Zemoura"
+      },
+      {
+        "commune_name": "Mansoura"
+      },
+      {
+        "commune_name": "El Mhir"
+      },
+      {
+        "commune_name": "Ben Daoud"
+      },
+      {
+        "commune_name": "El Achir"
+      },
+      {
+        "commune_name": "Ain Taghrout"
+      },
+      {
+        "commune_name": "Bordj Ghdir"
+      },
+      {
+        "commune_name": "Sidi Embarek"
+      },
+      {
+        "commune_name": "El Hamadia"
+      },
+      {
+        "commune_name": "Belimour"
+      },
+      {
+        "commune_name": "Medjana"
+      },
+      {
+        "commune_name": "Teniet En Nasr"
+      },
+      {
+        "commune_name": "Djaafra"
+      },
+      {
+        "commune_name": "El Main"
+      },
+      {
+        "commune_name": "Ouled Brahem"
+      },
+      {
+        "commune_name": "Ouled Dahmane"
+      },
+      {
+        "commune_name": "Hasnaoua"
+      },
+      {
+        "commune_name": "Khelil"
+      },
+      {
+        "commune_name": "Taglait"
+      },
+      {
+        "commune_name": "Ksour"
+      },
+      {
+        "commune_name": "Ouled Sidi Brahim"
+      },
+      {
+        "commune_name": "Tafreg"
+      },
+      {
+        "commune_name": "Colla"
+      },
+      {
+        "commune_name": "Tixter"
+      },
+      {
+        "commune_name": "El Ach"
+      },
+      {
+        "commune_name": "El Anseur"
+      },
+      {
+        "commune_name": "Tesmart"
+      },
+      {
+        "commune_name": "Ain Tesra"
+      },
+      {
+        "commune_name": "Bir Kasdali"
+      },
+      {
+        "commune_name": "Ghilassa"
+      },
+      {
+        "commune_name": "Rabta"
+      },
+      {
+        "commune_name": "Haraza"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 35,
+    "wilaya_name": "بومرداس",
+    "communes": [
+      {
+        "commune_name": "Boumerdes"
+      },
+      {
+        "commune_name": "Boudouaou"
+      },
+      {
+        "commune_name": "Afir"
+      },
+      {
+        "commune_name": "Bordj Menaiel"
+      },
+      {
+        "commune_name": "Baghlia"
+      },
+      {
+        "commune_name": "Sidi Daoud"
+      },
+      {
+        "commune_name": "Naciria"
+      },
+      {
+        "commune_name": "Djinet"
+      },
+      {
+        "commune_name": "Isser"
+      },
+      {
+        "commune_name": "Zemmouri"
+      },
+      {
+        "commune_name": "Si Mustapha"
+      },
+      {
+        "commune_name": "Tidjelabine"
+      },
+      {
+        "commune_name": "Chabet El Ameur"
+      },
+      {
+        "commune_name": "Thenia"
+      },
+      {
+        "commune_name": "Timezrit"
+      },
+      {
+        "commune_name": "Corso"
+      },
+      {
+        "commune_name": "Ouled Moussa"
+      },
+      {
+        "commune_name": "Larbatache"
+      },
+      {
+        "commune_name": "Bouzegza Keddara"
+      },
+      {
+        "commune_name": "Taourga"
+      },
+      {
+        "commune_name": "Ouled Aissa"
+      },
+      {
+        "commune_name": "Ben Choud"
+      },
+      {
+        "commune_name": "Dellys"
+      },
+      {
+        "commune_name": "Ammal"
+      },
+      {
+        "commune_name": "Beni Amrane"
+      },
+      {
+        "commune_name": "Souk El Had"
+      },
+      {
+        "commune_name": "Boudouaou El Bahri"
+      },
+      {
+        "commune_name": "Ouled Hedadj"
+      },
+      {
+        "commune_name": "Laghata"
+      },
+      {
+        "commune_name": "Hammedi"
+      },
+      {
+        "commune_name": "Khemis El Khechna"
+      },
+      {
+        "commune_name": "El Kharrouba"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 36,
+    "wilaya_name": "الطارف",
+    "communes": [
+      {
+        "commune_name": "El Tarf"
+      },
+      {
+        "commune_name": "Bouhadjar"
+      },
+      {
+        "commune_name": "Ben Mhidi"
+      },
+      {
+        "commune_name": "Bougous"
+      },
+      {
+        "commune_name": "El Kala"
+      },
+      {
+        "commune_name": "Ain El Assel"
+      },
+      {
+        "commune_name": "El Aioun"
+      },
+      {
+        "commune_name": "Bouteldja"
+      },
+      {
+        "commune_name": "Souarekh"
+      },
+      {
+        "commune_name": "Berrihane"
+      },
+      {
+        "commune_name": "Lac Des Oiseaux"
+      },
+      {
+        "commune_name": "Chefia"
+      },
+      {
+        "commune_name": "Drean"
+      },
+      {
+        "commune_name": "Chihani"
+      },
+      {
+        "commune_name": "Chebaita Mokhtar"
+      },
+      {
+        "commune_name": "Besbes"
+      },
+      {
+        "commune_name": "Asfour"
+      },
+      {
+        "commune_name": "Echatt"
+      },
+      {
+        "commune_name": "Zerizer"
+      },
+      {
+        "commune_name": "Zitouna"
+      },
+      {
+        "commune_name": "Ain Kerma"
+      },
+      {
+        "commune_name": "Oued Zitoun"
+      },
+      {
+        "commune_name": "Hammam Beni Salah"
+      },
+      {
+        "commune_name": "Raml Souk"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 37,
+    "wilaya_name": "تندوف",
+    "communes": [
+      {
+        "commune_name": "Tindouf"
+      },
+      {
+        "commune_name": "Oum El Assel"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 38,
+    "wilaya_name": "تـيـسـمـسـيـلـت",
+    "communes": [
+      {
+        "commune_name": "Tissemsilt"
+      },
+      {
+        "commune_name": "Bordj Bou Naama"
+      },
+      {
+        "commune_name": "Theniet El Had"
+      },
+      {
+        "commune_name": "Lazharia"
+      },
+      {
+        "commune_name": "Beni Chaib"
+      },
+      {
+        "commune_name": "Lardjem"
+      },
+      {
+        "commune_name": "Melaab"
+      },
+      {
+        "commune_name": "Sidi Lantri"
+      },
+      {
+        "commune_name": "Bordj El Emir Abdelkader"
+      },
+      {
+        "commune_name": "Layoune"
+      },
+      {
+        "commune_name": "Khemisti"
+      },
+      {
+        "commune_name": "Ouled Bessem"
+      },
+      {
+        "commune_name": "Ammari"
+      },
+      {
+        "commune_name": "Youssoufia"
+      },
+      {
+        "commune_name": "Sidi Boutouchent"
+      },
+      {
+        "commune_name": "Larbaa"
+      },
+      {
+        "commune_name": "Maasem"
+      },
+      {
+        "commune_name": "Sidi Abed"
+      },
+      {
+        "commune_name": "Tamalaht"
+      },
+      {
+        "commune_name": "Sidi Slimane"
+      },
+      {
+        "commune_name": "Boucaid"
+      },
+      {
+        "commune_name": "Beni Lahcene"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 39,
+    "wilaya_name": "الوادي",
+    "communes": [
+      {
+        "commune_name": "El Oued"
+      },
+      {
+        "commune_name": "Robbah"
+      },
+      {
+        "commune_name": "Oued El Alenda"
+      },
+      {
+        "commune_name": "Bayadha"
+      },
+      {
+        "commune_name": "Nakhla"
+      },
+      {
+        "commune_name": "Guemar"
+      },
+      {
+        "commune_name": "Kouinine"
+      },
+      {
+        "commune_name": "Reguiba"
+      },
+      {
+        "commune_name": "Hamraia"
+      },
+      {
+        "commune_name": "Taghzout"
+      },
+      {
+        "commune_name": "Debila"
+      },
+      {
+        "commune_name": "Hassani Abdelkrim"
+      },
+      {
+        "commune_name": "Hassi Khelifa"
+      },
+      {
+        "commune_name": "Taleb Larbi"
+      },
+      {
+        "commune_name": "Douar El Ma"
+      },
+      {
+        "commune_name": "Sidi Aoun"
+      },
+      {
+        "commune_name": "Trifaoui"
+      },
+      {
+        "commune_name": "Magrane"
+      },
+      {
+        "commune_name": "Beni Guecha"
+      },
+      {
+        "commune_name": "Ourmas"
+      },
+      {
+        "commune_name": "Still"
+      },
+      {
+        "commune_name": "Mrara"
+      },
+      {
+        "commune_name": "Sidi Khellil"
+      },
+      {
+        "commune_name": "Tendla"
+      },
+      {
+        "commune_name": "El Ogla"
+      },
+      {
+        "commune_name": "Mih Ouansa"
+      },
+      {
+        "commune_name": "El Mghair"
+      },
+      {
+        "commune_name": "Djamaa"
+      },
+      {
+        "commune_name": "Oum Touyour"
+      },
+      {
+        "commune_name": "Sidi Amrane"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 40,
+    "wilaya_name": "خنشلة",
+    "communes": [
+      {
+        "commune_name": "Khenchela"
+      },
+      {
+        "commune_name": "Mtoussa"
+      },
+      {
+        "commune_name": "Kais"
+      },
+      {
+        "commune_name": "Baghai"
+      },
+      {
+        "commune_name": "El Hamma"
+      },
+      {
+        "commune_name": "Ain Touila"
+      },
+      {
+        "commune_name": "Taouzianat"
+      },
+      {
+        "commune_name": "Bouhmama"
+      },
+      {
+        "commune_name": "El Oueldja"
+      },
+      {
+        "commune_name": "Remila"
+      },
+      {
+        "commune_name": "Cherchar"
+      },
+      {
+        "commune_name": "Djellal"
+      },
+      {
+        "commune_name": "Babar"
+      },
+      {
+        "commune_name": "Tamza"
+      },
+      {
+        "commune_name": "Ensigha"
+      },
+      {
+        "commune_name": "Ouled Rechache"
+      },
+      {
+        "commune_name": "El Mahmal"
+      },
+      {
+        "commune_name": "Msara"
+      },
+      {
+        "commune_name": "Yabous"
+      },
+      {
+        "commune_name": "Khirane"
+      },
+      {
+        "commune_name": "Chelia"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 41,
+    "wilaya_name": "سوق أهراس",
+    "communes": [
+      {
+        "commune_name": "Souk Ahras"
+      },
+      {
+        "commune_name": "Sedrata"
+      },
+      {
+        "commune_name": "Hanancha"
+      },
+      {
+        "commune_name": "Mechroha"
+      },
+      {
+        "commune_name": "Ouled Driss"
+      },
+      {
+        "commune_name": "Tiffech"
+      },
+      {
+        "commune_name": "Zaarouria"
+      },
+      {
+        "commune_name": "Taoura"
+      },
+      {
+        "commune_name": "Drea"
+      },
+      {
+        "commune_name": "Haddada"
+      },
+      {
+        "commune_name": "Khedara"
+      },
+      {
+        "commune_name": "Merahna"
+      },
+      {
+        "commune_name": "Ouled Moumen"
+      },
+      {
+        "commune_name": "Bir Bouhouche"
+      },
+      {
+        "commune_name": "Mdaourouche"
+      },
+      {
+        "commune_name": "Oum El Adhaim"
+      },
+      {
+        "commune_name": "Ain Zana"
+      },
+      {
+        "commune_name": "Ain Soltane"
+      },
+      {
+        "commune_name": "Quillen"
+      },
+      {
+        "commune_name": "Sidi Fredj"
+      },
+      {
+        "commune_name": "Safel El Ouiden"
+      },
+      {
+        "commune_name": "Ragouba"
+      },
+      {
+        "commune_name": "Khemissa"
+      },
+      {
+        "commune_name": "Oued Keberit"
+      },
+      {
+        "commune_name": "Terraguelt"
+      },
+      {
+        "commune_name": "Zouabi"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 42,
+    "wilaya_name": "تيبازة",
+    "communes": [
+      {
+        "commune_name": "Tipaza"
+      },
+      {
+        "commune_name": "Menaceur"
+      },
+      {
+        "commune_name": "Larhat"
+      },
+      {
+        "commune_name": "Douaouda"
+      },
+      {
+        "commune_name": "Bourkika"
+      },
+      {
+        "commune_name": "Khemisti"
+      },
+      {
+        "commune_name": "Aghabal"
+      },
+      {
+        "commune_name": "Hadjout"
+      },
+      {
+        "commune_name": "Sidi Amar"
+      },
+      {
+        "commune_name": "Gouraya"
+      },
+      {
+        "commune_name": "Nodor"
+      },
+      {
+        "commune_name": "Chaiba"
+      },
+      {
+        "commune_name": "Ain Tagourait"
+      },
+      {
+        "commune_name": "Cherchel"
+      },
+      {
+        "commune_name": "Damous"
+      },
+      {
+        "commune_name": "Meurad"
+      },
+      {
+        "commune_name": "Fouka"
+      },
+      {
+        "commune_name": "Bou Ismail"
+      },
+      {
+        "commune_name": "Ahmer El Ain"
+      },
+      {
+        "commune_name": "Bou Haroun"
+      },
+      {
+        "commune_name": "Sidi Ghiles"
+      },
+      {
+        "commune_name": "Messelmoun"
+      },
+      {
+        "commune_name": "Sidi Rached"
+      },
+      {
+        "commune_name": "Kolea"
+      },
+      {
+        "commune_name": "Attatba"
+      },
+      {
+        "commune_name": "Sidi Semiane"
+      },
+      {
+        "commune_name": "Beni Milleuk"
+      },
+      {
+        "commune_name": "Hadjerat Ennous"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 43,
+    "wilaya_name": "ميلة",
+    "communes": [
+      {
+        "commune_name": "Mila"
+      },
+      {
+        "commune_name": "Ferdjioua"
+      },
+      {
+        "commune_name": "Chelghoum Laid"
+      },
+      {
+        "commune_name": "Oued Athmenia"
+      },
+      {
+        "commune_name": "Ain Mellouk"
+      },
+      {
+        "commune_name": "Telerghma"
+      },
+      {
+        "commune_name": "Oued Seguen"
+      },
+      {
+        "commune_name": "Tadjenanet"
+      },
+      {
+        "commune_name": "Benyahia Abderrahmane"
+      },
+      {
+        "commune_name": "Oued Endja"
+      },
+      {
+        "commune_name": "Ahmed Rachedi"
+      },
+      {
+        "commune_name": "Ouled Khalouf"
+      },
+      {
+        "commune_name": "Tiberguent"
+      },
+      {
+        "commune_name": "Bouhatem"
+      },
+      {
+        "commune_name": "Rouached"
+      },
+      {
+        "commune_name": "Tessala Lamatai"
+      },
+      {
+        "commune_name": "Grarem Gouga"
+      },
+      {
+        "commune_name": "Sidi Merouane"
+      },
+      {
+        "commune_name": "Tassadane Haddada"
+      },
+      {
+        "commune_name": "Derradji Bousselah"
+      },
+      {
+        "commune_name": "Minar Zarza"
+      },
+      {
+        "commune_name": "Amira Arras"
+      },
+      {
+        "commune_name": "Terrai Bainen"
+      },
+      {
+        "commune_name": "Hamala"
+      },
+      {
+        "commune_name": "Ain Tine"
+      },
+      {
+        "commune_name": "El Mechira"
+      },
+      {
+        "commune_name": "Sidi Khelifa"
+      },
+      {
+        "commune_name": "Zeghaia"
+      },
+      {
+        "commune_name": "Elayadi Barbes"
+      },
+      {
+        "commune_name": "Ain Beida Harriche"
+      },
+      {
+        "commune_name": "Yahia Beniguecha"
+      },
+      {
+        "commune_name": "Chigara"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 44,
+    "wilaya_name": "عين دفلة - عين الدفلى",
+    "communes": [
+      {
+        "commune_name": "Ain Defla"
+      },
+      {
+        "commune_name": "Miliana"
+      },
+      {
+        "commune_name": "Boumedfaa"
+      },
+      {
+        "commune_name": "Khemis Miliana"
+      },
+      {
+        "commune_name": "Hammam Righa"
+      },
+      {
+        "commune_name": "Arib"
+      },
+      {
+        "commune_name": "Djelida"
+      },
+      {
+        "commune_name": "El Amra"
+      },
+      {
+        "commune_name": "Bourached"
+      },
+      {
+        "commune_name": "El Attaf"
+      },
+      {
+        "commune_name": "El Abadia"
+      },
+      {
+        "commune_name": "Djendel"
+      },
+      {
+        "commune_name": "Oued Chorfa"
+      },
+      {
+        "commune_name": "Ain Lechiakh"
+      },
+      {
+        "commune_name": "Oued Djemaa"
+      },
+      {
+        "commune_name": "Rouina"
+      },
+      {
+        "commune_name": "Zeddine"
+      },
+      {
+        "commune_name": "El Hassania"
+      },
+      {
+        "commune_name": "Bir Ouled Khelifa"
+      },
+      {
+        "commune_name": "Ain Soltane"
+      },
+      {
+        "commune_name": "Tarik Ibn Ziad"
+      },
+      {
+        "commune_name": "Bordj Emir Khaled"
+      },
+      {
+        "commune_name": "Ain Torki"
+      },
+      {
+        "commune_name": "Sidi Lakhdar"
+      },
+      {
+        "commune_name": "Ben Allal"
+      },
+      {
+        "commune_name": "Ain Benian"
+      },
+      {
+        "commune_name": "Hoceinia"
+      },
+      {
+        "commune_name": "Barbouche"
+      },
+      {
+        "commune_name": "Djemaa Ouled Chikh"
+      },
+      {
+        "commune_name": "Mekhatria"
+      },
+      {
+        "commune_name": "Bathia"
+      },
+      {
+        "commune_name": "Tachta Zegagha"
+      },
+      {
+        "commune_name": "Ain Bouyahia"
+      },
+      {
+        "commune_name": "El Maine"
+      },
+      {
+        "commune_name": "Tiberkanine"
+      },
+      {
+        "commune_name": "Belaas"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 45,
+    "wilaya_name": "النــعـامـة",
+    "communes": [
+      {
+        "commune_name": "Naama"
+      },
+      {
+        "commune_name": "Mechria"
+      },
+      {
+        "commune_name": "Ain Sefra"
+      },
+      {
+        "commune_name": "Tiout"
+      },
+      {
+        "commune_name": "Sfissifa"
+      },
+      {
+        "commune_name": "Moghrar"
+      },
+      {
+        "commune_name": "Assela"
+      },
+      {
+        "commune_name": "Djeniane Bourzeg"
+      },
+      {
+        "commune_name": "Ain Ben Khelil"
+      },
+      {
+        "commune_name": "Makman Ben Amer"
+      },
+      {
+        "commune_name": "Kasdir"
+      },
+      {
+        "commune_name": "El Biod"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 46,
+    "wilaya_name": "عـيـن تـمـوشـنـت",
+    "communes": [
+      {
+        "commune_name": "Ain Temouchent"
+      },
+      {
+        "commune_name": "Chaabet El Ham"
+      },
+      {
+        "commune_name": "Ain Kihal"
+      },
+      {
+        "commune_name": "Hammam Bouhadjar"
+      },
+      {
+        "commune_name": "Bou Zedjar"
+      },
+      {
+        "commune_name": "Oued Berkeche"
+      },
+      {
+        "commune_name": "Aghlal"
+      },
+      {
+        "commune_name": "Terga"
+      },
+      {
+        "commune_name": "Ain El Arbaa"
+      },
+      {
+        "commune_name": "Tamzoura"
+      },
+      {
+        "commune_name": "Chentouf"
+      },
+      {
+        "commune_name": "Sidi Ben Adda"
+      },
+      {
+        "commune_name": "Aoubellil"
+      },
+      {
+        "commune_name": "El Malah"
+      },
+      {
+        "commune_name": "Sidi Boumediene"
+      },
+      {
+        "commune_name": "Oued Sabah"
+      },
+      {
+        "commune_name": "Ouled Boudjemaa"
+      },
+      {
+        "commune_name": "Ain Tolba"
+      },
+      {
+        "commune_name": "El Amria"
+      },
+      {
+        "commune_name": "Hassi El Ghella"
+      },
+      {
+        "commune_name": "Hassasna"
+      },
+      {
+        "commune_name": "Ouled Kihal"
+      },
+      {
+        "commune_name": "Beni Saf"
+      },
+      {
+        "commune_name": "Sidi Safi"
+      },
+      {
+        "commune_name": "Oulhaca El Gheraba"
+      },
+      {
+        "commune_name": "Sidi Ouriache"
+      },
+      {
+        "commune_name": "El Emir Abdelkader"
+      },
+      {
+        "commune_name": "El Messaid"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 47,
+    "wilaya_name": "غرداية",
+    "communes": [
+      {
+        "commune_name": "Ghardaia"
+      },
+      {
+        "commune_name": "El Meniaa"
+      },
+      {
+        "commune_name": "Dhayet Bendhahoua"
+      },
+      {
+        "commune_name": "Berriane"
+      },
+      {
+        "commune_name": "Metlili"
+      },
+      {
+        "commune_name": "El Guerrara"
+      },
+      {
+        "commune_name": "El Atteuf"
+      },
+      {
+        "commune_name": "Zelfana"
+      },
+      {
+        "commune_name": "Sebseb"
+      },
+      {
+        "commune_name": "Bounoura"
+      },
+      {
+        "commune_name": "Hassi Fehal"
+      },
+      {
+        "commune_name": "Hassi Gara"
+      },
+      {
+        "commune_name": "Mansoura"
+      }
+    ]
+  },
+  {
+    "wilaya_code": 48,
+    "wilaya_name": "غيليزان",
+    "communes": [
+      {
+        "commune_name": "Relizane"
+      },
+      {
+        "commune_name": "Oued Rhiou"
+      },
+      {
+        "commune_name": "Belaassel Bouzegza"
+      },
+      {
+        "commune_name": "Sidi Saada"
+      },
+      {
+        "commune_name": "Ouled Aiche"
+      },
+      {
+        "commune_name": "Sidi Lazreg"
+      },
+      {
+        "commune_name": "El Hamadna"
+      },
+      {
+        "commune_name": "Sidi Mhamed Ben Ali"
+      },
+      {
+        "commune_name": "Mediouna"
+      },
+      {
+        "commune_name": "Sidi Khettab"
+      },
+      {
+        "commune_name": "Ammi Moussa"
+      },
+      {
+        "commune_name": "Zemmoura"
+      },
+      {
+        "commune_name": "Beni Dergoun"
+      },
+      {
+        "commune_name": "Djidiouia"
+      },
+      {
+        "commune_name": "El Guettar"
+      },
+      {
+        "commune_name": "Hamri"
+      },
+      {
+        "commune_name": "El Matmar"
+      },
+      {
+        "commune_name": "Sidi Mhamed Ben Aouda"
+      },
+      {
+        "commune_name": "Ain Tarek"
+      },
+      {
+        "commune_name": "Oued Essalem"
+      },
+      {
+        "commune_name": "Ouarizane"
+      },
+      {
+        "commune_name": "Mazouna"
+      },
+      {
+        "commune_name": "Kalaa"
+      },
+      {
+        "commune_name": "Ain Rahma"
+      },
+      {
+        "commune_name": "Yellel"
+      },
+      {
+        "commune_name": "Oued El Djemaa"
+      },
+      {
+        "commune_name": "Ramka"
+      },
+      {
+        "commune_name": "Mendes"
+      },
+      {
+        "commune_name": "Lahlef"
+      },
+      {
+        "commune_name": "Beni Zentis"
+      },
+      {
+        "commune_name": "Souk El Haad"
+      },
+      {
+        "commune_name": "Dar Ben Abdellah"
+      },
+      {
+        "commune_name": "El Hassi"
+      },
+      {
+        "commune_name": "Had Echkalla"
+      },
+      {
+        "commune_name": "Bendaoud"
+      },
+      {
+        "commune_name": "El Ouldja"
+      },
+      {
+        "commune_name": "Merdja Sidi Abed"
+      },
+      {
+        "commune_name": "Ouled Sidi Mihoub"
+      }
+    ]
+  }
+]

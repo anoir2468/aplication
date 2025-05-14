@@ -1,0 +1,61 @@
+name: yad_byad_finaly
+description: تطبيق جزائري احترافي للربط بين الحرفيين وطالبي العمل
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.12.0
+  cloud_firestore: ^4.15.0
+  firebase_storage: ^11.5.0
+  firebase_messaging: ^14.7.0
+  geolocator: ^11.0.0
+  google_maps_flutter: ^2.5.0
+  image_picker: ^1.0.4
+  flutter_svg: ^2.0.10+1
+  fluttertoast: ^8.2.4
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  flutter_local_notifications: ^16.3.3
+  android_alarm_manager_plus: ^4.0.7
+  permission_handler: ^10.4.0
+  url_launcher: ^6.1.11
+  intl: ^0.18.1
+  path_provider: ^2.1.1
+  awesome_dialog: ^3.1.0
+  share_plus: ^7.0.0
+  audioplayers: ^6.4.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:  ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/audio/welcome.mp3
+    - assets/images/logo.png
+    - assets/jsons/professions.json
+    - assets/jsons/algeria_regions.json
+    - assets/images/artisans/
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Black.ttf
+        - asset: assets/fonts/Cairo-Bold.ttf
+        - asset: assets/fonts/Cairo-ExtraBold.ttf
+        - asset: assets/fonts/Cairo-ExtraLight.ttf
+        - asset: assets/fonts/Cairo-Light.ttf
+        - asset: assets/fonts/Cairo-Medium.ttf
+        - asset: assets/fonts/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo-SemiBold.ttf
